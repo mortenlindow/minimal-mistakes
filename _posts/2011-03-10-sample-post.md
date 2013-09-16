@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample Post
+title: Sådan skriver man i hjemmesidesystemer
 description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
+modified: 2013-09-15
 category: articles
 tags: [intro, beginner, jekyll, tutorial]
 image:
